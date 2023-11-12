@@ -2,7 +2,7 @@ import React from 'react';
 import './style.css';
 
 export default function App() {
-  let a = 'stand';
+  let a = 'test';
 
   return (
     <div>
